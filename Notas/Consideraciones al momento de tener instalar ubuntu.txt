@@ -1,0 +1,10 @@
+Despues de instalar Ubuntu, ejecutar en la consola de comandos lo siguiente
+
+- sudo apt -get update
+- sudo apt -get upgrade
+
+verificar la ip del servidor de ubuntu con ip addr
+
+
+// En cuestion de virtualizador cambiar de (nat) => bridge
+
